@@ -4,6 +4,8 @@ logs
 
 .DS_Store
 .vscode
+.idea
+.idea/*
 
 # Runtime data
 pids
